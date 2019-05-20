@@ -3,6 +3,7 @@
 
 ## Vulnerability
 - [Exploiting Deserialisation in ASP.NET via ViewState](https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/?fbclid=IwAR041dgTf47X7uwf60fEHmXA0ZofEeBauyVA8UWnoAYd7LwusMltQiXYodQ)
+- [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
 
 
 ## Protocol
@@ -14,4 +15,4 @@
 - [Tips for Securing SSL Renegotiation](https://securingtomorrow.mcafee.com/business/tips-securing-ssl-renegotiation/)
 - [Testing for SSL renegotiation](https://blog.ivanristic.com/2009/12/testing-for-ssl-renegotiation.html)
 - [SSL Checklist for Pentesters - the Manual Cheatsheet](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
-- [](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
+- [Manual test ssl](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
