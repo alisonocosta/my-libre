@@ -7,3 +7,7 @@
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
 - [oxml_xxe](https://github.com/BuffaloWill/oxml_xxe) - A tool for embedding XXE/XML exploits into different filetypes
 - [CIntruder](https://github.com/epsylon/cintruder) - Captcha Intruder (CIntruder) is an automatic pentesting tool to bypass captchas.
+- [Modlishka](https://github.com/drk1wi/Modlishka) - Reverse proxy and phishing engine
+- [tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer
+- [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS server scanning library for Python 3.6+
+- [Tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
