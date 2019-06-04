@@ -4,10 +4,11 @@
 ## Vulnerability
 - [Exploiting Deserialisation in ASP.NET via ViewState](https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/?fbclid=IwAR041dgTf47X7uwf60fEHmXA0ZofEeBauyVA8UWnoAYd7LwusMltQiXYodQ)
 - [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
-- [oxml_xxe](https://github.com/BuffaloWill/oxml_xxe) - A tool for embedding XXE/XML exploits into different filetypes
-- [CIntruder](https://github.com/epsylon/cintruder) - Captcha Intruder (CIntruder) is an automatic pentesting tool to bypass captchas.
 
-## Protocol
+## General knowledge
+### XML
+- [DTDLess](http://xml.silmaril.ie/validity.html)
+### Protocol
 - [Protobuf](https://developers.google.com/protocol-buffers/docs/overview) - Google's protocol
 
 
