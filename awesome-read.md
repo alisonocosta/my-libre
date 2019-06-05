@@ -7,6 +7,8 @@
 - [Disclosing Tor users' real IP address through 301 HTTP Redirect Cache Poisoning](https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/?fbclid=IwAR3zqGhzVf-7oZqS4ArHsrb-ogXqyWpocTAMHCmtznjOgNZljMVzE1YQIQM)
 - [Server-Side Template Injection](https://portswigger.net/blog/server-side-template-injection)
 - [XXE How to become a Jedi](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
+- [Attacking SSO: Common SAML Vulnerabilities and Ways to Find Them](https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/)
+- [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com//download/papers/XMLDTDEntityAttacks.pdf)
 
 ---
 

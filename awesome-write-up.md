@@ -11,6 +11,7 @@
 - [A Look at CVE-2017-8514 --- SharePoint's `Follow` Feature XSS](https://respectxss.blogspot.com/2017/06/a-look-at-cve-2017-8514-sharepoints.html) - DOM XSS in Sharepoint follows feature
 - [Reflected XSS at Philips.com](https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c)
 - [MIME Sniffing to Stored XSS](https://anotherhackerblog.com/exploiting-file-uploads-pt1/?fbclid=IwAR3Tl0g1czGuqjTGEh9VorJMyVyMBFOpS-BVO9wogGsZUQVLGE0MjCVOjpw)
+- [Stealing HttpOnly Cookie via XSS](https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81)
 
 ---
 
@@ -22,6 +23,7 @@ Arbitrary create file and control location file
 
 ### XXE
 - [XXE at Bol.com](https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54)
+- [XXE in IBM’s MaaS360 Platform](https://blog.netspi.com/xxe-in-ibms-maas360-platform/)
 
 ---
 
