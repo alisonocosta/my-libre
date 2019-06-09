@@ -27,6 +27,11 @@ Arbitrary create file and control location file
 
 ---
 
+### CORS
+- [Tricky CORS Bypass in Yahoo! View](https://www.corben.io/tricky-CORS/)
+
+---
+
 ### Authentication
 - [Breaking JWT with none mode to exfiltration flag](https://medium.com/@amalmurali47/h1-702-ctf-web-challenge-write-up-53de31b2ddce)
 
@@ -34,3 +39,8 @@ Arbitrary create file and control location file
 
 ## Smart(?) device
 - [Hacking Smart TV (CVE-2019-12477) by INPUTZERO](https://www.inputzero.io/2019/06/hacking-smart-tv.html?fbclid=IwAR3di_tJTjpBeTcffRoHHvMx0MJn3SmPiKz4obF6SBQk1lHwmIEUnvFr-qg)
+
+---
+
+## ATM
+- [Critical RCE affects older Diebold Nixdorf ATMs](https://medium.com/nightst0rm/t%E1%BA%A3n-m%E1%BA%A1n-v%E1%BB%81-l%E1%BB%97-h%E1%BB%95ng-trong-atm-diebold-f1040a70f2c9)
