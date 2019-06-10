@@ -41,7 +41,7 @@
 
 ## Patch
 - [elFinder CVE-2018-9109 and CVE-2018-9110](https://github.com/Studio-42/elFinder/wiki/Advisory-about-vulnerability-of-CVE-2018-9109-and-CVE-2018-9110)
-
+- [Protect CSV injection](https://stackoverflow.com/questions/40398766/avoid-formula-injection-keeping-cell-value-quote-prefix-in-hssf-xls)
 
 ---
 
