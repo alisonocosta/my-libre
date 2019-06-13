@@ -1,5 +1,6 @@
 # Random amazing tools
 
+- [Awesome pentest gadgets](https://github.com/awesome-pentest-gadgets)
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System
 - [pyexiftool](https://github.com/smarnach/pyexiftool) - ExifTools in Python
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -11,3 +12,5 @@
 - [tcpflow](https://github.com/simsong/tcpflow) - TCP/IP packet demultiplexer
 - [SSLyze](https://github.com/nabla-c0d3/sslyze) - Fast and powerful SSL/TLS server scanning library for Python 3.6+
 - [Tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- [jwtcrack](https://github.com/Sjord/jwtcrack) - Crack the shared secret of a HS256-signed JWT
+- [Rainbow tables ](https://freerainbowtables.com/) - MD5 and SHA1 rainbow tables

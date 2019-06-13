@@ -27,6 +27,11 @@ Arbitrary create file and control location file
 
 ---
 
+### RCE
+- [Gitea 1.4.0 Unauthenticated Remote Code Execution](https://security.szurek.pl/gitea-1-4-0-unauthenticated-rce.html)
+
+---
+
 ### CORS
 - [Tricky CORS Bypass in Yahoo! View](https://www.corben.io/tricky-CORS/)
 
