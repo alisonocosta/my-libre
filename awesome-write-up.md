@@ -1,6 +1,6 @@
 # Random awesome write-up
 
-## Web application
+## **Web application**
 ### Account takeover
 - [Samsung.com Account Takeover Vulnerability by Matthew Bryant](https://thehackerblog.com/samsung-com-account-takeover-vulnerability-write-up/) / [PoC](https://www.youtube.com/watch?v=NWPRLb36hwU) - Character removal during authentication lead to account takeover
 
@@ -42,10 +42,20 @@ Arbitrary create file and control location file
 
 ---
 
-## Smart(?) device
+### Authorization
+- [[\*.(my)shopify.com] - Viewing Password Protected Content](https://hackerone.com/reports/421859?fbclid=IwAR19-Tv1OjTNgKVnKcNWRtA3YPsncRTcVk-yPe2RoHn5wyk90VxkQuHNH1k)
+
+---
+
+### Open Redirect
+- [[trip.uber.com] Open Redirect filter bypass](https://www.youtube.com/watch?v=ABLQADqaJuo)
+
+---
+
+## **Smart(?) device**
 - [Hacking Smart TV (CVE-2019-12477) by INPUTZERO](https://www.inputzero.io/2019/06/hacking-smart-tv.html?fbclid=IwAR3di_tJTjpBeTcffRoHHvMx0MJn3SmPiKz4obF6SBQk1lHwmIEUnvFr-qg)
 
 ---
 
-## ATM
+## **ATM**
 - [Critical RCE affects older Diebold Nixdorf ATMs](https://medium.com/nightst0rm/t%E1%BA%A3n-m%E1%BA%A1n-v%E1%BB%81-l%E1%BB%97-h%E1%BB%95ng-trong-atm-diebold-f1040a70f2c9)

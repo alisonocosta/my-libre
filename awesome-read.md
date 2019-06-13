@@ -2,9 +2,9 @@
 
 
 ## Vulnerability
-- [Exploiting Deserialisation in ASP.NET via ViewState](https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/?fbclid=IwAR041dgTf47X7uwf60fEHmXA0ZofEeBauyVA8UWnoAYd7LwusMltQiXYodQ)
+- [Exploiting Deserialisation in ASP.NET via ViewState](https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/)
 - [Exploiting Script Injection Flaws in ReactJS Apps](https://medium.com/dailyjs/exploiting-script-injection-flaws-in-reactjs-883fb1fe36c1)
-- [Disclosing Tor users' real IP address through 301 HTTP Redirect Cache Poisoning](https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/?fbclid=IwAR3zqGhzVf-7oZqS4ArHsrb-ogXqyWpocTAMHCmtznjOgNZljMVzE1YQIQM)
+- [Disclosing Tor users' real IP address through 301 HTTP Redirect Cache Poisoning](https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/)
 - [Server-Side Template Injection](https://portswigger.net/blog/server-side-template-injection)
 - [XXE How to become a Jedi](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
 - [Attacking SSO: Common SAML Vulnerabilities and Ways to Find Them](https://blog.netspi.com/attacking-sso-common-saml-vulnerabilities-ways-find/)
@@ -14,6 +14,8 @@
 - [Hacking JSON Web Token (JWT)](https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6)
 - [Attacking JWT authentication](https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/)
 - [Testing_for_Weak_Encryption](https://www.owasp.org/index.php/Testing_for_Weak_Encryption_(OTG-CRYPST-004))
+- [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons)
+- [Heap Overflow Exploitation on Windows 10 Explained](https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/)
 
 ---
 
@@ -43,6 +45,9 @@
 - [Manual test SSL](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
+### Side-channel
+- [RAM Bleed](https://rambleed.com/)
+- [RAMBleed: Reading Bits in Memory Without Accessing Them](https://rambleed.com/docs/20190603-rambleed-web.pdf)
 
 ---
 
