@@ -45,6 +45,8 @@
 - [Manual test SSL](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
+### Authentication 
+- [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
 ### Side-channel
 - [RAM Bleed](https://rambleed.com/)
 - [RAMBleed: Reading Bits in Memory Without Accessing Them](https://rambleed.com/docs/20190603-rambleed-web.pdf)
@@ -54,6 +56,11 @@
 ## Patch / Fix
 - [elFinder CVE-2018-9109 and CVE-2018-9110](https://github.com/Studio-42/elFinder/wiki/Advisory-about-vulnerability-of-CVE-2018-9109-and-CVE-2018-9110)
 - [Protect CSV injection](https://stackoverflow.com/questions/40398766/avoid-formula-injection-keeping-cell-value-quote-prefix-in-hssf-xls)
+
+---
+
+## Dissection
+- [Dissecting NanoCore Crimeware Attack Chain](https://blog.yoroi.company/research/dissecting-nanocore-crimeware-attack-chain/)
 
 ---
 
