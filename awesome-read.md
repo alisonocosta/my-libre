@@ -16,6 +16,9 @@
 - [Testing_for_Weak_Encryption](https://www.owasp.org/index.php/Testing_for_Weak_Encryption_(OTG-CRYPST-004))
 - [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons)
 - [Heap Overflow Exploitation on Windows 10 Explained](https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/)
+- [Reflected File Download(RFD) Vulnerability. What? How?](https://medium.com/@Johne_Jacob/rfd-reflected-file-download-what-how-6d0e6fdbe331)
+- [A collection of curated Java Deserialization Exploits](https://github.com/Coalfire-Research/java-deserialization-exploits)
+- [Understanding & practicing java deserialization exploits](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
 
 ---
 
@@ -45,7 +48,7 @@
 - [Manual test SSL](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
-### Authentication 
+### Authentication
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
 ### Side-channel
 - [RAM Bleed](https://rambleed.com/)
@@ -66,3 +69,8 @@
 
 ## Cert. prep guide
 - https://tulpa-security.com/2017/07/18/288/
+
+---
+
+## Training site
+- [Cryptopals](https://cryptopals.com/)
