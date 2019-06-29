@@ -27,6 +27,11 @@ Arbitrary create file and control location file
 
 ---
 
+### SSRF
+- [Yahoo SSRF and Local File Disclosure via FFmpeg](https://www.youtube.com/watch?v=3Z_f69OIQuw)
+
+---
+
 ### RCE
 - [Gitea 1.4.0 Unauthenticated Remote Code Execution](https://security.szurek.pl/gitea-1-4-0-unauthenticated-rce.html)
 

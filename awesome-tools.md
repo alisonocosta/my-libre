@@ -14,3 +14,4 @@
 - [Tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [jwtcrack](https://github.com/Sjord/jwtcrack) - Crack the shared secret of a HS256-signed JWT
 - [Rainbow tables ](https://freerainbowtables.com/) - MD5 and SHA1 rainbow tables
+- [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
