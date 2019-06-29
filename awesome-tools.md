@@ -14,4 +14,7 @@
 - [Tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [jwtcrack](https://github.com/Sjord/jwtcrack) - Crack the shared secret of a HS256-signed JWT
 - [Rainbow tables ](https://freerainbowtables.com/) - MD5 and SHA1 rainbow tables
+- [Lab for Java Deserialization Vulnerabilities](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
+- [DeserLab](https://github.com/NickstaDB/DeserLab) - Java deserialization exploitation lab.
+<<<<<<< HEAD
 - [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
