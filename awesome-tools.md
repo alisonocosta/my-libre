@@ -17,4 +17,9 @@
 - [Lab for Java Deserialization Vulnerabilities](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 - [DeserLab](https://github.com/NickstaDB/DeserLab) - Java deserialization exploitation lab.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker
+=======
+- [Aquatine](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+- [sample.microservices.security](https://github.com/WASdev/sample.microservices.security) - Sample code showing how to provide secure microservices
+>>>>>>> d798a4a43a088f76a809744e04c03332b46c72fd

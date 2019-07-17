@@ -35,6 +35,10 @@
 - [How character repetition affects passwords entropy?](https://security.stackexchange.com/questions/185354/how-character-repetition-affects-passwords-entropy)
 - [What's the advantage of using PBKDF2 vs SHA256 to generate an AES encryption key from a passphrase?](https://security.stackexchange.com/questions/16354/whats-the-advantage-of-using-pbkdf2-vs-sha256-to-generate-an-aes-encryption-key)
 - [How to securely hash passwords?](https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords)
+- [How to design an elliptic-curve signature system](https://blog.cr.yp.to/20140323-ecdsa.html)
+- [rsa-vs-dsa-for-ssh-authentication-keys](https://security.stackexchange.com/questions/5096/rsa-vs-dsa-for-ssh-authentication-keys/46781#46781)
+- [Security dangers of the NIST curves](http://www.hyperelliptic.org/tanja/vortraege/20130531.pdf)
+- [Non-weak DSA key? oxymoronic, perhaps](https://meyering.net/nuke-your-DSA-keys/)
 ### File structure
 - [File signature](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - [File signature table](https://www.garykessler.net/library/file_sigs.html)
@@ -48,11 +52,20 @@
 - [Manual test SSL](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
+- [Support for SSL/TLS protocols on Windows](https://blogs.msdn.microsoft.com/kaushal/2011/10/02/support-for-ssltls-protocols-on-windows/)
 ### Authentication
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
 ### Side-channel
 - [RAM Bleed](https://rambleed.com/)
 - [RAMBleed: Reading Bits in Memory Without Accessing Them](https://rambleed.com/docs/20190603-rambleed-web.pdf)
+### SSH
+- [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+### Microservice
+- [Using API keys to secure your microservice](https://developer.ibm.com/wasdev/docs/using-api-keys-secure-microservice/)
+- [Is it Meaningful to Add 'x-frame-options' in an Restful API](https://stackoverflow.com/questions/34044966/is-it-meaningful-to-add-x-frame-options-in-an-restful-api)
+### Security (mis)configuration
+- [Clickjacking: A Common Implementation Mistake Can Put Your Websites in Danger](https://blog.qualys.com/securitylabs/2015/10/20/clickjacking-a-common-implementation-mistake-that-can-put-your-websites-in-danger)
+- [](https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/)
 
 ---
 
@@ -64,6 +77,12 @@
 
 ## Dissection
 - [Dissecting NanoCore Crimeware Attack Chain](https://blog.yoroi.company/research/dissecting-nanocore-crimeware-attack-chain/)
+
+---
+
+## Programming
+**Python**
+- [Python project structure](https://docs.python-guide.org/writing/structure/)
 
 ---
 
