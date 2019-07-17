@@ -16,3 +16,5 @@
 - [Rainbow tables ](https://freerainbowtables.com/) - MD5 and SHA1 rainbow tables
 - [Lab for Java Deserialization Vulnerabilities](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 - [DeserLab](https://github.com/NickstaDB/DeserLab) - Java deserialization exploitation lab.
+- [Aquatine](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+- [sample.microservices.security](https://github.com/WASdev/sample.microservices.security) - Sample code showing how to provide secure microservices
