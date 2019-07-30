@@ -19,6 +19,7 @@
 - [Reflected File Download(RFD) Vulnerability. What? How?](https://medium.com/@Johne_Jacob/rfd-reflected-file-download-what-how-6d0e6fdbe331)
 - [A collection of curated Java Deserialization Exploits](https://github.com/Coalfire-Research/java-deserialization-exploits)
 - [Understanding & practicing java deserialization exploits](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
+- [Poking a Hole in Firewall ProofRead Final](https://www.acunetix.com/resources/Poking-A-Hole-In-Firewall-ProofRead-Final.pdf)
 
 ---
 
@@ -53,6 +54,7 @@
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
 - [Support for SSL/TLS protocols on Windows](https://blogs.msdn.microsoft.com/kaushal/2011/10/02/support-for-ssltls-protocols-on-windows/)
+- [SSL/TLS IANA](https://testssl.sh/openssl-iana.mapping.html)
 ### Authentication
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
 ### Side-channel
