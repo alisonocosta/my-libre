@@ -3,6 +3,7 @@
 ## **Web application**
 ### Account takeover
 - [Samsung.com Account Takeover Vulnerability by Matthew Bryant](https://thehackerblog.com/samsung-com-account-takeover-vulnerability-write-up/) / [PoC](https://www.youtube.com/watch?v=NWPRLb36hwU) - Character removal during authentication lead to account takeover
+- [Clickjacking in Twitters Aquasition domain](https://www.youtube.com/watch?v=xj8sgrog9Zk)
 
 ---
 
@@ -54,6 +55,12 @@ Arbitrary create file and control location file
 
 ### Open Redirect
 - [[trip.uber.com] Open Redirect filter bypass](https://www.youtube.com/watch?v=ABLQADqaJuo)
+
+---
+
+### Misc.
+- [Apple Safari & Microsoft Edge Browser Address Bar Spoofing - Writeup](https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html)
+- [Exploiting Clickjacking Vulnerability | Google](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/)
 
 ---
 
