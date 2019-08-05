@@ -19,17 +19,19 @@
 - [Reflected File Download(RFD) Vulnerability. What? How?](https://medium.com/@Johne_Jacob/rfd-reflected-file-download-what-how-6d0e6fdbe331)
 - [A collection of curated Java Deserialization Exploits](https://github.com/Coalfire-Research/java-deserialization-exploits)
 - [Understanding & practicing java deserialization exploits](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
-- [Poking a Hole in Firewall ProofRead Final](https://www.acunetix.com/resources/Poking-A-Hole-In-Firewall-ProofRead-Final.pdf)
 
 ---
 
 ## General knowledge
 ### XML
 - [DTDLess](http://xml.silmaril.ie/validity.html)
+
 ### Protocol
 - [Protobuf](https://developers.google.com/protocol-buffers/docs/overview) - Google's protocol
+
 ### Cloud
 - [AWS metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+
 ### Cryptography
 - [Do any security experts recommend bcrypt for password storage?](https://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
 - [Stronger key derivation via sequential memory-hard functions](http://www.tarsnap.com/scrypt/scrypt.pdf)
@@ -40,10 +42,12 @@
 - [rsa-vs-dsa-for-ssh-authentication-keys](https://security.stackexchange.com/questions/5096/rsa-vs-dsa-for-ssh-authentication-keys/46781#46781)
 - [Security dangers of the NIST curves](http://www.hyperelliptic.org/tanja/vortraege/20130531.pdf)
 - [Non-weak DSA key? oxymoronic, perhaps](https://meyering.net/nuke-your-DSA-keys/)
+
 ### File structure
 - [File signature](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - [File signature table](https://www.garykessler.net/library/file_sigs.html)
 - [Signature recovery](https://www.file-recovery.com/signatures.htm)
+
 ### SSL TLS
 - [ROBOT](https://robotattack.org/)
 - [TLS computational DoS mitigation](https://vincent.bernat.ch/en/blog/2011-ssl-dos-mitigation#disabling-tls-renegotiation)
@@ -54,20 +58,24 @@
 - [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
 - [Support for SSL/TLS protocols on Windows](https://blogs.msdn.microsoft.com/kaushal/2011/10/02/support-for-ssltls-protocols-on-windows/)
-- [SSL/TLS IANA](https://testssl.sh/openssl-iana.mapping.html)
+
 ### Authentication
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
+
 ### Side-channel
 - [RAM Bleed](https://rambleed.com/)
 - [RAMBleed: Reading Bits in Memory Without Accessing Them](https://rambleed.com/docs/20190603-rambleed-web.pdf)
+
 ### SSH
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
+
 ### Microservice
 - [Using API keys to secure your microservice](https://developer.ibm.com/wasdev/docs/using-api-keys-secure-microservice/)
 - [Is it Meaningful to Add 'x-frame-options' in an Restful API](https://stackoverflow.com/questions/34044966/is-it-meaningful-to-add-x-frame-options-in-an-restful-api)
+
 ### Security (mis)configuration
 - [Clickjacking: A Common Implementation Mistake Can Put Your Websites in Danger](https://blog.qualys.com/securitylabs/2015/10/20/clickjacking-a-common-implementation-mistake-that-can-put-your-websites-in-danger)
-- [](https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/)
+- [CORS misconfigurations](https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/)
 
 ---
 
@@ -85,6 +93,9 @@
 ## Programming
 **Python**
 - [Python project structure](https://docs.python-guide.org/writing/structure/)
+
+**Go**
+- [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 
 ---
 
