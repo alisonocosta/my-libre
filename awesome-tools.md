@@ -16,5 +16,7 @@
 - [Rainbow tables ](https://freerainbowtables.com/) - MD5 and SHA1 rainbow tables
 - [Lab for Java Deserialization Vulnerabilities](https://github.com/joaomatosf/JavaDeserH2HC) - Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).
 - [DeserLab](https://github.com/NickstaDB/DeserLab) - Java deserialization exploitation lab.
-- [Aquatine](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
+- [Aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers
 - [sample.microservices.security](https://github.com/WASdev/sample.microservices.security) - Sample code showing how to provide secure microservices
+- [Param miner](https://github.com/PortSwigger/param-miner) - This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning vulnerabilities.
+- [Parameth](https://github.com/maK-/parameth) - This tool can be used to brute discover GET and POST parameters
