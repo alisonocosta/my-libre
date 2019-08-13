@@ -3,9 +3,11 @@
 
 **Tools!?**
 - [jwtcrack](https://github.com/Sjord/jwtcrack) - Crack the shared secret of a HS256-signed JWT
+- [C JWT cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
 - [Parameth](https://github.com/maK-/parameth) - This tool can be used to brute discover GET and POST parameters
 - [CIntruder](https://github.com/epsylon/cintruder) - Captcha Intruder (CIntruder) is an automatic pentesting tool to bypass captchas.
 - [Modlishka](https://github.com/drk1wi/Modlishka) - Reverse proxy and phishing engine
+
 
 **Vulnerability scanner**
 - [SMTPTester](https://github.com/xFreed0m/SMTPTester/blob/master/SMTPTester.py) - small python3 tool to check common vulnerabilities in SMTP servers
@@ -17,6 +19,8 @@
 
 **Burp plug-in**
 - [Param miner](https://github.com/PortSwigger/param-miner) - This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning vulnerabilities.
+- [Autorize](https://github.com/Quitten/Autorize) - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily in order to ease application security people work and allow them perform an automatic authorization tests
+- [Decompressor](https://github.com/antoinet/burp-decompressor) - An extension for BurpSuite used to access and modify compressed HTTP payloads without changing the content-encoding
 
 **Utilities**
 - [Aquatone](https://github.com/michenriksen/aquatone) - A Tool for Domain Flyovers

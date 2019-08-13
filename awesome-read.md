@@ -19,6 +19,9 @@
 - [Reflected File Download(RFD) Vulnerability. What? How?](https://medium.com/@Johne_Jacob/rfd-reflected-file-download-what-how-6d0e6fdbe331)
 - [A collection of curated Java Deserialization Exploits](https://github.com/Coalfire-Research/java-deserialization-exploits)
 - [Understanding & practicing java deserialization exploits](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
+- [Poking a Hole in Firewall ProofRead Final](https://www.acunetix.com/resources/Poking-A-Hole-In-Firewall-ProofRead-Final.pdf)
+- [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn)
+
 
 ---
 
@@ -39,20 +42,29 @@
 - [File signature](https://en.wikipedia.org/wiki/List_of_file_signatures)
 - [File signature table](https://www.garykessler.net/library/file_sigs.html)
 - [Signature recovery](https://www.file-recovery.com/signatures.htm)
+- [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)
 
 ### SSL TLS
+- [Transport layer protection cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
+- [TLS cipher string cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/TLS_Cipher_String_Cheat_Sheet.html)
 - [ROBOT](https://robotattack.org/)
+- [Perfect Forward Secrecy](https://scotthelme.co.uk/perfect-forward-secrecy/)
+- [Security/Server Side TLS by Mozilla](https://wiki.mozilla.org/Security/Server_Side_TLS)
 - [TLS computational DoS mitigation](https://vincent.bernat.ch/en/blog/2011-ssl-dos-mitigation#disabling-tls-renegotiation)
 - [Tips for Securing SSL Renegotiation](https://securingtomorrow.mcafee.com/business/tips-securing-ssl-renegotiation/)
 - [Testing for SSL renegotiation](https://blog.ivanristic.com/2009/12/testing-for-ssl-renegotiation.html)
 - [SSL Checklist for Pentesters - the Manual Cheatsheet](http://www.exploresecurity.com/wp-content/uploads/custom/SSL_manual_cheatsheet.html)
 - [Manual test SSL](https://www.contextis.com/en/blog/manually-testing-ssl-tls-weaknesses)
-- [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 - [RC4](https://www.rc4nomore.com/)
 - [Support for SSL/TLS protocols on Windows](https://blogs.msdn.microsoft.com/kaushal/2011/10/02/support-for-ssltls-protocols-on-windows/)
 
 ### Authentication
 - [Auth-Boss](https://github.com/teesloane/Auth-Boss/blob/master/README.md)
+- [JSON Web Token Best Current Practices](https://datatracker.ietf.org/doc/draft-ietf-oauth-jwt-bcp/?include_text=1)
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-13)
+- [RS256 vs HS256: What's the difference?](https://stackoverflow.com/questions/39239051/rs256-vs-hs256-whats-the-difference)
+- [Brute Forcing HS256 is Possible: The Importance of Using Strong Keys in Signing JWTs](https://auth0.com/blog/brute-forcing-hs256-is-possible-the-importance-of-using-strong-keys-to-sign-jwts/)
+- [Authorization Code Flow with Proof Key for Code Exchange (PKCE)](https://auth0.com/docs/flows/concepts/auth-code-pkce)
 
 ### Side-channel
 - [RAM Bleed](https://rambleed.com/)
@@ -61,9 +73,14 @@
 ### SSH
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html)
 
-### Microservice
+### API
+- [OWASP API project](https://github.com/OWASP/API-Security/tree/develop)
+- [API security](https://apisecurity.io/ref/api-security-encyclopedia/)
+- [REST Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)
 - [Using API keys to secure your microservice](https://developer.ibm.com/wasdev/docs/using-api-keys-secure-microservice/)
 - [Is it Meaningful to Add 'x-frame-options' in an Restful API](https://stackoverflow.com/questions/34044966/is-it-meaningful-to-add-x-frame-options-in-an-restful-api)
+- [Do I need to use salt with api key hashing?](https://security.stackexchange.com/questions/209936/do-i-need-to-use-salt-with-api-key-hashing)
+- [Prevent api gateway from receiving requests for a robots.txt file](https://stackoverflow.com/questions/43239958/prevent-api-gateway-from-receiving-requests-for-a-robots-txt-file)
 
 ### Security (mis)configuration
 - [Clickjacking: A Common Implementation Mistake Can Put Your Websites in Danger](https://blog.qualys.com/securitylabs/2015/10/20/clickjacking-a-common-implementation-mistake-that-can-put-your-websites-in-danger)
@@ -77,12 +94,16 @@
 
 ### Cloud
 - [AWS metadata](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+- [Supported Protocols and Ciphers on Cloudfront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/secure-connections-supported-viewer-protocols-ciphers.html)
+- [CloudFront disable SSL client renegotiate by default](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-https.html)
+- [REST Authentication](http://s3.amazonaws.com/doc/s3-developer-guide/RESTAuthentication.html)
 
 ---
 
 ## Patch / Fix
 - [elFinder CVE-2018-9109 and CVE-2018-9110](https://github.com/Studio-42/elFinder/wiki/Advisory-about-vulnerability-of-CVE-2018-9109-and-CVE-2018-9110)
 - [Protect CSV injection](https://stackoverflow.com/questions/40398766/avoid-formula-injection-keeping-cell-value-quote-prefix-in-hssf-xls)
+- [Fix SSL renegotiation](https://www.digicert.com/news/2011-06-03-ssl-renego/)
 
 ---
 
@@ -97,6 +118,9 @@
 
 **Go**
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
+
+**Java**
+- [Jersey](https://jersey.github.io/documentation/latest/index.html) - RESTful Web Services in Java
 
 ---
 
