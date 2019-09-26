@@ -21,7 +21,8 @@
 - [Understanding & practicing java deserialization exploits](https://diablohorn.com/2017/09/09/understanding-practicing-java-deserialization-exploits/)
 - [Poking a Hole in Firewall ProofRead Final](https://www.acunetix.com/resources/Poking-A-Hole-In-Firewall-ProofRead-Final.pdf)
 - [HTTP Desync Attacks: Request Smuggling Reborn](https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn)
-
+- [XXE on Windows system](https://medium.com/@canavaroxum/xxe-on-windows-system-then-what-76d571d66745)
+- [Exploiting XXE with excel](https://www.4armed.com/blog/exploiting-xxe-with-excel/)
 
 ---
 
@@ -113,14 +114,23 @@
 ---
 
 ## Programming
+**Algorithms**
+- [Rabin-Karp and Knuth-Morris-Pratt Algorithms](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-string-searching-algorithms/)
+
 **Python**
 - [Python project structure](https://docs.python-guide.org/writing/structure/)
+- [How to Check if a Python String Contains Another String?](https://www.afternerd.com/blog/python-string-contains/) - Python use boyer-moore and horspool algorithms for string search
+- [fastsearch.h](https://github.com/python/cpython/blob/master/Objects/stringlib/fastsearch.h) - python fast search lib
+- [String library benchmark analysis](http://effbot.org/zone/stringlib.htm)
+- [(the eff-bot guide to) The Standard Python Library](http://effbot.org/zone/librarybook-index.htm)
 
 **Go**
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 
 **Java**
 - [Jersey](https://jersey.github.io/documentation/latest/index.html) - RESTful Web Services in Java
+- [What is semaphore and mutex java concurrency multi-thread explained with example?](https://crunchify.com/what-is-java-semaphore-and-mutex-java-concurrency-multithread-explained-with-example/)
+- [Have you noticed Race Condition in Java Multi-threading Concurrency Example? How to deal with it?](https://crunchify.com/have-you-noticed-race-condition-in-java-multithreading-concurrency-example-how-to-deal-with-it/)
 
 ---
 
