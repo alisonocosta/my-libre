@@ -13,6 +13,8 @@
 - [Reflected XSS at Philips.com](https://medium.com/@jonathanbouman/reflected-xss-at-philips-com-e48bf8f9cd3c)
 - [MIME Sniffing to Stored XSS](https://anotherhackerblog.com/exploiting-file-uploads-pt1/?fbclid=IwAR3Tl0g1czGuqjTGEh9VorJMyVyMBFOpS-BVO9wogGsZUQVLGE0MjCVOjpw)
 - [Stealing HttpOnly Cookie via XSS](https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81)
+- [Big Monitoring Fabric Application](https://know.bishopfox.com/advisories/big-monitoring-fabric)
+- [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/)
 
 
 
@@ -45,6 +47,7 @@ Arbitrary create file and control location file
 
 **Authentication**
 - [Breaking JWT with none mode to exfiltration flag](https://medium.com/@amalmurali47/h1-702-ctf-web-challenge-write-up-53de31b2ddce)
+- [Github Oauth bypass](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
 
 
 
@@ -61,6 +64,7 @@ Arbitrary create file and control location file
 **Misc.**
 - [Apple Safari & Microsoft Edge Browser Address Bar Spoofing - Writeup](https://www.rafaybaloch.com/2018/09/apple-safari-microsoft-edge-browser.html)
 - [Exploiting Clickjacking Vulnerability | Google](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/)
+- [HTTP Request Smuggling (CL.TE)](https://memn0ps.github.io/2019/09/13/HTTP-Request-Smuggling-CL-TE.html)
 
 ---
 
@@ -71,6 +75,12 @@ Arbitrary create file and control location file
 
 ## **Smart(?) device**
 - [Hacking Smart TV (CVE-2019-12477) by INPUTZERO](https://www.inputzero.io/2019/06/hacking-smart-tv.html?fbclid=IwAR3di_tJTjpBeTcffRoHHvMx0MJn3SmPiKz4obF6SBQk1lHwmIEUnvFr-qg)
+
+---
+
+## Thick client
+- [Hacking a game to learn FRIDA basics](https://x-c3ll.github.io/posts/Frida-Pwn-Adventure-3/)
+
 
 ---
 
